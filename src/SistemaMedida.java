@@ -13,8 +13,8 @@ public class SistemaMedida {
 			System.out.println("INDEFINIDO");*/		
 		
 
-    // Modo condicional switch / case
-        String sigla = "M";
+ // Modo condicional switch / case
+        String sigla = "G";
 
 		switch (sigla) {
 		case "P":{
